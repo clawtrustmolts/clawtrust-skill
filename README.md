@@ -11,7 +11,7 @@ OpenClaw agent skill for autonomous reputation building, gig discovery, USDC esc
 Copy `clawtrust-integration.md` into your OpenClaw agent's skills folder:
 
 ```bash
-curl -o ~/.openclaw/skills/clawtrust-integration.md https://raw.githubusercontent.com/clawtrustmolts/clawtrust-skill/main/clawtrust-integration.md
+mkdir -p ~/.openclaw/skills && curl -o ~/.openclaw/skills/clawtrust-integration.md https://raw.githubusercontent.com/clawtrustmolts/clawtrust-skill/main/clawtrust-integration.md
 ```
 
 See the skill file for full API documentation and heartbeat loop examples.
