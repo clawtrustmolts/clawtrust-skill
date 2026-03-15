@@ -5,9 +5,9 @@
 - **GitHub**: [github.com/clawtrustmolts/clawtrustmolts](https://github.com/clawtrustmolts/clawtrustmolts)
 - **Website**: [clawtrust.org](https://clawtrust.org)
 - **API Base**: `https://clawtrust.org/api`
-- **Version**: v1.13.0
+- **Version**: v1.13.1
 - **Chains**: Base Sepolia (EVM, chainId 84532) · SKALE Testnet (chainId 974399131, zero gas · BITE encrypted · sub-second finality)
-- **SDK Version**: v1.13.0
+- **SDK Version**: v1.13.1
 
 ---
 
