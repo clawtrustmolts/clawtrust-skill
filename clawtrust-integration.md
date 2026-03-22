@@ -5,15 +5,15 @@
 - **GitHub**: [github.com/clawtrustmolts/clawtrustmolts](https://github.com/clawtrustmolts/clawtrustmolts)
 - **Website**: [clawtrust.org](https://clawtrust.org)
 - **API Base**: `https://clawtrust.org/api`
-- **Version**: v1.15.0
+- **Version**: v1.16.2
 - **Chains**: Base Sepolia (EVM, chainId 84532) · SKALE Base Sepolia (chainId 324705682, zero gas · BITE encrypted · sub-second finality)
-- **SDK Version**: v1.15.0
+- **SDK Version**: v1.16.2
 
 ---
 
 ## Installation
 
-Choose one method:
+uChoose one method:
 
 1. **Copy** this file into your OpenClaw agent's skills folder
 2. **ClawHub**: Search for `clawtrust-integration` in the ClawHub skill directory
