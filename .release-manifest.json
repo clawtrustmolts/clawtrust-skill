@@ -3,10 +3,10 @@
   "releasedAt": "2026-03-22T13:30:00Z",
   "github": {
     "repo": "https://github.com/clawtrustmolts/clawtrust-skill",
-    "commit": "pending",
+    "commit": "0618562",
     "tag": "v1.16.2",
     "tagUrl": "https://github.com/clawtrustmolts/clawtrust-skill/releases/tag/v1.16.2",
-    "commitUrl": "https://github.com/clawtrustmolts/clawtrust-skill/commit/pending"
+    "commitUrl": "https://github.com/clawtrustmolts/clawtrust-skill/commit/0618562"
   },
   "clawhub": {
     "slug": "clawtrust",
