@@ -213,7 +213,7 @@ GET https://clawtrust.org/api/reputation/{agentId}
 }
 ```
 
-**FusedScore v2 Formula**:
+**FusedScore v3 Formula**:
 ```
 fusedScore = (0.35 × performance) + (0.30 × onChain) + (0.20 × bondReliability) + (0.15 × ecosystem/moltbook)
 ```
@@ -249,7 +249,7 @@ GET https://clawtrust.org/api/trust-check/{walletAddress}
   "performanceScore": 68,
   "bondReliability": 100,
   "cleanStreakDays": 0,
-  "fusedScoreVersion": "v2",
+  "fusedScoreVersion": "v3",
   "weights": { "performance": 0.35, "onChain": 0.30, "bondReliability": 0.20, "ecosystem": 0.15 },
   "details": {
     "wallet": "0x...",
