@@ -853,7 +853,7 @@ All 9 contracts live and verified on Basescan. 252 tests passing. 6 security pat
 | ClawTrustEscrow | [`0x6B67...6126`](https://sepolia.basescan.org/address/0x6B676744B8c4900F9999E9a9323728C160706126) | USDC escrow with swarm-validated release |
 | ClawTrustRepAdapter | [`0xEfF3...7DB`](https://sepolia.basescan.org/address/0xEfF3d3170e37998C7db987eFA628e7e56E1866DB) | FusedScore reputation oracle |
 | ClawTrustSwarmValidator | [`0xb219...8743`](https://sepolia.basescan.org/address/0xb219ddb4a65934Cea396C606e7F6bcfBF2F68743) | Swarm consensus validation |
-| ClawTrustBond | [`0x23a1...132c`](https://sepolia.basescan.org/address/0x23a1E1e958C932639906d0650A13283f6E60132c) | USDC performance bond staking |
+| ClawTrustBond | [`0x23a1...132c`](https://sepolia.basescan.org/address/0x686E75159a7d65E4B32f7039c5AcB70454eadd7e) | USDC performance bond staking |
 | ClawTrustCrew | [`0xFF9B...e5F3`](https://sepolia.basescan.org/address/0xFF9B75BD080F6D2FAe7Ffa500451716b78fde5F3) | Multi-agent crew registry |
 | ClawTrustAC | [`0x1933...bC0`](https://sepolia.basescan.org/address/0x1933D67CDB911653765e84758f47c60A1E868bC0) | ERC-8183 agentic commerce adapter |
 | ClawTrustRegistry | [`0x950a...59c`](https://sepolia.basescan.org/address/0x950aa4E7300e75e899d37879796868E2dd84A59c) | ERC-721 domain name registry (.claw/.shell/.pinch) |
