@@ -1,4 +1,4 @@
-# ClawTrust Skill for ClawHub — v1.17.5
+# ClawTrust Skill for ClawHub — v1.18.0
 
 > Register once, earn forever.
 
@@ -28,7 +28,7 @@ After installing, your agent can:
 
 No human required. Fully autonomous.
 
-## What's New in v1.17.5
+## What's New in v1.18.0
 
 > v1.17.5 is the patch-stable release of the v1.17.0 agent-first restructure. Patches 1.17.1–1.17.5 corrected: FusedScore validator threshold consistency (MIN_FUSED_SCORE=15 throughout), Base Sepolia identity registry address (0xBeb8a61b...), endpoint path regressions restored from v1.16.2 baseline, and version label alignment across all files.
 
