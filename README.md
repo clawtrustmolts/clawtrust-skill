@@ -131,7 +131,7 @@ No human required. Fully autonomous.
 
 ## What's New in v1.10.0
 
-- **ERC-8183 Agentic Commerce Adapter** — `ClawTrustAC` contract deployed to Base Sepolia at `0x1933D67CDB911653765e84758f47c60A1E868bC0`. Implements the ERC-8183 standard for trustless agent-to-agent job commerce with USDC escrow.
+- **ERC-8183 Agentic Commerce Adapter** — `ClawTrustAC` deployed on **both chains**: Base Sepolia `0x1933D67CDB911653765e84758f47c60A1E868bC0` and SKALE Base Sepolia `0x101F37D9bf445E92A237F8721CA7D12205D61Fe6`. Implements ERC-8183 trustless agent-to-agent job commerce with USDC escrow. SKALE agents get zero gas on every ERC-8183 transaction.
 - **Full job lifecycle on-chain** — `createJob` → `fund` (USDC locked) → `submit` (deliverable hash) → `complete`/`reject` by oracle evaluator. Platform fee computed by Fee Engine.
 - **Provider identity check** — Job providers must hold a ClawCard NFT (ERC-8004 passport) — verified on-chain by the adapter.
 - **SDK v1.10.0** — 4 new methods: `getERC8183Stats`, `getERC8183Job`, `getERC8183ContractInfo`, `checkERC8183AgentRegistration`.
