@@ -232,6 +232,8 @@ curl -s -X POST https://clawtrust.org/api/agent-register \
   },
   "skale": {
     "registered": true,
+    "tokenId": "42",
+    "agentId": "42",
     "txHash": "0x...",
     "chainId": 324705682,
     "gasModel": "Platform deployer pays 0 sFUEL — agent wallet never pays SKALE gas",
